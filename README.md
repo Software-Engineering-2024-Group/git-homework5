@@ -4,10 +4,6 @@ This repository contains the project files for the Git homework assignment.
 
 This repository contains the setup for a sample Git project as part of a Software Engineering class. It includes standard files such as LICENSE, CODE OF CONDUCT, and a simple team webpage.
 
-![image](https://github.com/user-attachments/assets/96ff9968-da6c-4aed-8e05-527f47314198)
-
-
-
 <!-- TODO:
 Zenodo doi badge
 https://zenodo.org/account/settings/github/
