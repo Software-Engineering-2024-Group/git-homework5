@@ -6,14 +6,11 @@ This repository contains the setup for a sample Git project as part of a Softwar
 
 ![Webpage Screenshot](Screenshot.png) 
 
+## :sparkles: Our Badges
 
-<!-- TODO:
-Zenodo doi badge
-https://zenodo.org/account/settings/github/
-License badge
-Test suite badge
-Code coverage badge 
--->
+[![DOI](https://zenodo.org/badge/874999626.svg)](https://doi.org/10.5281/zenodo.13988681)
+
+![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)
 
 ## :sparkles: Our Page
 
