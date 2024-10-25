@@ -12,8 +12,7 @@ This repository contains the setup for a sample Git project as part of a Softwar
 
 ## :sparkles: Our Page
 
-![image](https://github.com/user-attachments/assets/a3dd025a-50f5-48c7-a7c2-612198b49a31)
-
+![image](https://github.com/user-attachments/assets/7b4fe3e5-0c7c-4862-8305-3849fb60edf5)
 
 :sparkles: Contributors
 ---
