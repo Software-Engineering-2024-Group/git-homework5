@@ -4,4 +4,3 @@ https://chromium.googlesource.com/external/github.com/coreos/seismograph/+/edbe2
 
 All participants are expected to abide by our code of conduct to foster a welcoming and inclusive environment.
 
-stash content
